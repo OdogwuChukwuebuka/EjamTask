@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39e49cff.css",
+    "main.js": "/static/js/main.5042494d.js",
+    "static/js/787.7e42adf9.chunk.js": "/static/js/787.7e42adf9.chunk.js",
+    "static/media/avatar2.svg": "/static/media/avatar2.3d76b41adf5edb0f0e48cf7efb3f5cae.svg",
+    "static/media/cart2.svg": "/static/media/cart2.a0c90b92b3f8022106359c112cb83599.svg",
+    "static/media/secondbg.svg": "/static/media/secondbg.426f22889fb59fc8ae7c0c3b541bf4ee.svg",
+    "static/media/guarantee.png": "/static/media/guarantee.bc6b7fadb8a1b2eed4ee.png",
+    "static/media/logo.svg": "/static/media/logo.b56ba744a6626da5eeac7a432d031922.svg",
+    "static/media/antivirus.svg": "/static/media/antivirus.f23b0f53312a4b65f3abf2af102d257a.svg",
+    "static/media/norton.svg": "/static/media/norton.47d844bbc16e3dbea30701dc8537111e.svg",
+    "static/media/shop pay.svg": "/static/media/shop pay.7f70c03e7b67008d5f43d4c5fd3b3c10.svg",
+    "static/media/applepay.svg": "/static/media/applepay.e56126602c2c7061d30eb8af78b8e99f.svg",
+    "static/media/gpay.svg": "/static/media/gpay.4fc78e38df00ae8ceaef387351a423d2.svg",
+    "static/media/arrow.svg": "/static/media/arrow.c9ab341f52296e5cb0f84cae3c75a83b.svg",
+    "static/media/check.svg": "/static/media/check.5218a05b6f461e8e4a09905a1732d181.svg",
+    "static/media/truck.svg": "/static/media/truck.02268ef751c2c68b94a1bab07af8cfe3.svg",
+    "static/media/percentage.svg": "/static/media/percentage.5bb211dea29f45f8ba37eb8d55251933.svg",
+    "static/media/paypal.svg": "/static/media/paypal.4ea86823607d6297df715ebcf54c5665.svg",
+    "static/media/amex.svg": "/static/media/amex.dce3f0ea98fd4bb70b7a9f43a9d472fd.svg",
+    "static/media/verify.svg": "/static/media/verify.478ec4916c8762f069b4cd1c2d0c687a.svg",
+    "static/media/mastercard.svg": "/static/media/mastercard.dc90e9afc5b4a00e77ed2d239638c527.svg",
+    "static/media/heart.svg": "/static/media/heart.0d38303bbec17ab73ebdee89f757d47f.svg",
+    "static/media/Stars.svg": "/static/media/Stars.0adb361923225b267227cfad988a5751.svg",
+    "static/media/star-filled.svg": "/static/media/star-filled.15fee4b117271d2d3157428ecbf7ae50.svg",
+    "static/media/lock.svg": "/static/media/lock.bf14158c8a03a1bcbe90b38e97d5d6eb.svg",
+    "index.html": "/index.html",
+    "static/media/rightarrow.svg": "/static/media/rightarrow.5cd3a54036ef2c3610e5bd5a84e279bf.svg",
+    "static/media/tick-circle.svg": "/static/media/tick-circle.fcd55577f05ab5fbe306e5df662c5baa.svg",
+    "static/media/dot.svg": "/static/media/dot.98b99e30b8bb4fa2d1c4abddf6edfe33.svg",
+    "main.39e49cff.css.map": "/static/css/main.39e49cff.css.map",
+    "main.5042494d.js.map": "/static/js/main.5042494d.js.map",
+    "787.7e42adf9.chunk.js.map": "/static/js/787.7e42adf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e49cff.css",
+    "static/js/main.5042494d.js"
+  ]
+}
